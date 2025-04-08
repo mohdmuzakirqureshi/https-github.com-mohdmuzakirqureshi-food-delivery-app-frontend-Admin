@@ -1,2 +1,8 @@
-# https-github.com-mohdmuzakirqureshi-food-delivery-app-frontend-Admin
-The admin interface is designed using modern web development technologies such as React.js, providing a dynamic and interactive platform. It offers responsiveness, ensuring compatibility with devices of all sizes, and emphasizes intuitive navigation to make administrative tasks straightforward and efficient
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
